@@ -1,1 +1,5 @@
-# appconf
+# App Conf
+
+- Tomcat
+- PostgreSQL
+- Nginx
